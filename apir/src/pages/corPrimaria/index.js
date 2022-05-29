@@ -29,7 +29,7 @@ export default function Index(){
         </div>
 
         <div>
-            É cor Primaria? {resposta}
+            E cor Primaria? {resposta}
         </div>
 
 
